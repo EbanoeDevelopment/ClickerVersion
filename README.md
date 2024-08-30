@@ -7,6 +7,11 @@
 
 ![image](https://github.com/user-attachments/assets/24398f11-f72b-45b0-9c6c-11f73f182ac9)
 
+
+<details>
+
+<summary>Примеры от gpt </summary>
+
 ```
 Здравствуйте! Как я могу вам помочь сегодня?
 
@@ -38,17 +43,22 @@
 Эти идеи могут помочь вам создать уникальный и привлекательный проект, который будет интересен игрокам, любящим мемы и кликеры.
 ```
 
-_____
-# Music to meme integration
+</details>
+
+<details>
+
+<summary>Ответ по поводу музыки </summary>
 
 ```
 С учётом планового введения ТП и покупок в комерчиских целях - запрещается музыка с АП
 В других случаях, когда из произведений не извлекается коммерческая выгода. Подписчики с донатами, платная реклама товаров и услуг в блоге – это уже выгода.
 
 ```
+</details>
 
-______
-# Meme template
+<details>
+
+<summary>Пример шаблонов мемов </summary>
 
 Название-Тайтл | Картинка | Статус
 ------------ | ------------- | ------------- 
@@ -57,8 +67,12 @@ ______
 Mashiro Mitsumine | ![image_861612192036367168336](https://github.com/user-attachments/assets/07ed3b77-28d8-451c-bb9d-868b22289a8a) | 
 Mashiro Mitsumine | ![1111](https://github.com/user-attachments/assets/d7b93f1d-1dce-421a-bf73-279a2e4598c5) | 
 
-______
-# По поводу кода 
+</details>
+
+<details>
+
+<summary>По поводу кода</summary>
+
 ```
 Создание главного меню:
 
@@ -119,3 +133,21 @@ Unreal Engine предоставляет обширное API, которое м
 
 Если у вас возникнут конкретные вопросы или проблемы, не стесняйтесь задавать их, и я постараюсь помочь вам
 ```
+
+</details>
+
+<details>
+
+<summary>Примеры персонажей</summary>
+
+![image](https://github.com/user-attachments/assets/62460426-1faa-49d1-a99b-3e01f6edad80)
+https://www.deviantart.com/pinninazero/art/Character-Outfit-Design-Vtuber-tsukiiyaki-1058078419
+![image](https://github.com/user-attachments/assets/1d0d2622-86d4-46ff-a2c3-cbb4b49572f9)
+https://www.deviantart.com/hatsukishouji/art/Original-character-Vtuber-868160687
+![image](https://github.com/user-attachments/assets/a3338a2b-3dfc-4e7e-9b46-357002acc91c)
+https://www.deviantart.com/okamilia/art/AI-ADOPT-Character-1505-1072568041
+</details>
+
+____
+# Возможные фишки удержания аудитории
+- Если добавить возможность создания контента аудиторией, то излишество артов открывает возможность гачи структуры
