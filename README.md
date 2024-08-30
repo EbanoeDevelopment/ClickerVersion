@@ -1,5 +1,9 @@
-# ClickerVersion
-### UPD 30/08
+<p align="center">
+  ClickerVersion 
+</p>
+<p align="center">
+ UPD 30/08
+</p>
 
 ![image](https://github.com/user-attachments/assets/24398f11-f72b-45b0-9c6c-11f73f182ac9)
 
@@ -38,6 +42,22 @@ _____
 # Music to meme integration
 
 ```
+С учётом планового введения ТП и покупок в комерчиских целях - запрещается музыка с АП
 В других случаях, когда из произведений не извлекается коммерческая выгода. Подписчики с донатами, платная реклама товаров и услуг в блоге – это уже выгода.
 
 ```
+
+______
+# Meme template
+
+Название-Тайтл | Картинка | Статус
+------------ | ------------- | ------------- 
+Манера крутит миром | ![dance-flex](https://github.com/user-attachments/assets/a67c8617-fbad-42ae-bdc0-ae43f5981546) | 
+Шарлотта | ![vezbCMr](https://github.com/user-attachments/assets/e90728f9-98f7-4cc7-89cd-0d3c85297606) | 
+Mashiro Mitsumine | ![image_861612192036367168336](https://github.com/user-attachments/assets/07ed3b77-28d8-451c-bb9d-868b22289a8a) | 
+Mashiro Mitsumine | ![1111](https://github.com/user-attachments/assets/d7b93f1d-1dce-421a-bf73-279a2e4598c5) | 
+
+
+
+
+Содержимое ячейки 3 | Содержимое ячейки 4
